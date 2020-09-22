@@ -4,21 +4,46 @@
 
 * Name of company
 
+    Enfusion Systems
 * When was the company incorporated?
 
+    2006
 * Who are the founders of the company?
+
+    Tarek Hammoud
+    Stephen Malherbe
+    Scott Werner
 
 * How did the idea for the company (or project) come about?
 
+    All 3 founders worked at large hedge funds and realized there were a multitude of complexities and inefficiencies in the trade execution and management ecosystems. They sought out to create efficiencies to help streamline the trade analysis and lifecycle processes.
+
+    https://www.enfusionsystems.com/about-us/
+
+
 * How is the company funded? How much funding have they received?
+
+    According to crunch base, Enfusion has only received 6mm in funding. They have teamed up with FTV Capital 2017 who continues to invest in the firm. FTV capital is a venture capital firm that invests in high- growth start-ups.
+
+    https://www.crunchbase.com/organization/enfusion/company_financials
+    http://www.ftvcapital.com/press-release/enfusion-systems-raises-significant-growth-equity-investment/
 
 
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
 
+    At large scale investment management firms, transactional data flows through many different systems supported by different teams. Many large-scale asset management firms will opt to outsource middle and back office services due to the human capital and system costs required to support these functions. What Enfusion does is streamline the data transfer process from trade execution to settlement. They do offer a middle/back office outsourced service as well. Their service leverages the same platform. Enfusion will also provide KPI’s surrounding inefficiency and in data flow as well as robust reporting for investment managers.
+
+    https://www.enfusionsystems.com/software/
+    https://www.enfusionsystems.com/services/
+    https://www.enfusionsystems.com/analytics/
+
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+
+    The intended customers for Enfusion are emerging hedge funds, established hedge funds, asset management firms, and family offices. Enfusion has a flexible platform for each market size of customers. This company offers a single platform that will support from execution of trades to settlement, reconciliation, and accounting. Most providers in this space will offer either front office services or middle office and/or back office services. All these departments usually have different software with different requirements and limitations. The advantage to having a uniform platform throughout is the stability of data transfer and the ability to remove the need to build in house systems and processes to compensate for the gaps. 
+
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
@@ -27,7 +52,11 @@ What solution does this company offer that their competitors do not or cannot of
 
 * What domain of the financial industry is the company in?
 
+    Financial services technology
+
 * What have been the major trends and innovations of this domain over the last 5-10 years?
+
+    Over the past 5 to 10 years asset management firms have been opting to outsource support roles/technologies due to cost. As this trend continues to become more popular, the technology demand in this space has become a struggle of scalability vs. customizability. Most of the major players in this space were large institutions such as JPMorgan, State Street and Northern Trust. As Fintech firms grow in this space, they have become more efficient at being able to build the technology needed to support scalability and customizability due to their resources and custom from scratch platforms. 
 
 * What are the other major companies in this domain?
 

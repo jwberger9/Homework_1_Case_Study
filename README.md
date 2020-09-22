@@ -60,6 +60,11 @@ What solution does this company offer that their competitors do not or cannot of
 
 * What are the other major companies in this domain?
 
+    Charles River, MSCI, Factset, Hedgeguard, BlackRock Aladdin
+    
+https://www.softwaresuggest.com/us/enfusion/alternatives
+https://www.institutionalinvestor.com/article/b1h7q2jlr0134l/Two-of-BlackRock-s-Aladdin-Competitors-Team-Up
+
 
 ## Results
 

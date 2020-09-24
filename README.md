@@ -60,7 +60,7 @@ What solution does this company offer that their competitors do not or cannot of
 
 * What are the other major companies in this domain?
 
-    Charles River, MSCI, Factset, Hedgeguard, BlackRock Aladdin
+    Charles River, MSCI, Factset, Hedgeguard, BlackRock (Aladdin), Bloomberg,
     
 https://www.softwaresuggest.com/us/enfusion/alternatives
 https://www.institutionalinvestor.com/article/b1h7q2jlr0134l/Two-of-BlackRock-s-Aladdin-Competitors-Team-Up
@@ -70,9 +70,20 @@ https://www.institutionalinvestor.com/article/b1h7q2jlr0134l/Two-of-BlackRock-s-
 
 * What has been the business impact of this company so far?
 
+    Enfusion has grown into 400 + employee company with 8 offices globally. In 2019 they were nominated in seven categories for the HFM European Hedge Fund Technology Awards and won the Alt Credit US award for best Middle-Office client service. In 2020 they received the award from HFM Services for best managed service provider. 
+https://www.enfusionsystems.com/european-services-awards-2020/
+
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
+    The metrics used to measure success in this space are revenue generation and service. As they are a private company their revenue is not publicly published. However, winning the award for best service provider in Europe for 2020, while going up against the larger providers is significant. There year over year global client onboarding numbers are incredibly positive as well.
+
+https://www.enfusionsystems.com/enfusion-accelerates-growth-trajectory-with-132-new-global-client-signings/
+
+
 * How is your company performing relative to competitors in the same domain?
+
+    Enfusion has taken steps to be a global provider in this space over the last few years. From May 2019 to May 2020 they onboarded 132 new clients globally and currently supports over 400 funds. as there are many players in this space, most do not support as a full end to end platform and are not cloud based. As there products become more well-known I can see them owning a large portion of the small to medium size fund sector as it will be a more cost effective solution than working with some of the larger entities. 
+https://www.enfusionsystems.com/enfusion-accelerates-growth-trajectory-with-132-new-global-client-signings/
 
 
 ## Recommendations

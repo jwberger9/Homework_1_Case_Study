@@ -10,8 +10,8 @@
     2006
 * Who are the founders of the company?
 
-    Tarek Hammoud
-    Stephen Malherbe
+    Tarek Hammoud,
+    Stephen Malherbe,
     Scott Werner
 
 * How did the idea for the company (or project) come about?

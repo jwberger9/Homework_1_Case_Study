@@ -82,17 +82,14 @@ https://www.enfusionsystems.com/enfusion-accelerates-growth-trajectory-with-132-
 
 * How is your company performing relative to competitors in the same domain?
 
-    Enfusion has taken steps to be a global provider in this space over the last few years. From May 2019 to May 2020 they onboarded 132 new clients globally and currently supports over 400 funds. as there are many players in this space, most do not support as a full end to end platform and are not cloud based. As there products become more well-known I can see them owning a large portion of the small to medium size fund sector as it will be a more cost effective solution than working with some of the larger entities. 
+    Enfusion has taken steps to be a global provider in this space over the last few years. From May 2019 to May 2020 they onboarded 132 new clients globally and currently support over 4000 funds. As there are many players in this space, most do not support as a full end to end platform and are not cloud based. They either support middle and back office or front office not both. This allows them to efectively disrupt the market as we transform to a more digital and streamlined environment. 
+
+
 https://www.enfusionsystems.com/enfusion-accelerates-growth-trajectory-with-132-new-global-client-signings/
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)Why do you think that offering this product or service would benefit the company? What technologies would this additional product or service utilize? Why are these technologies appropriate for your solution?
 
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
-```
+    The only product or service that I would suggest is operating as a custodian for funds/safekeeping of securities. This will allow them to directly compete with some of the larger and more established firms as most that offer middle and back office services also act as custodian. I would try to implement this by targeting small to mid-size funds and offering it as a cheaper more streamlined alternative to the bigger firms and cause further disruption in the market. Much of the current infrastructure in place can be leveraged to help build out what is needed. As a fintech firm they will be able to improve the technology in the custodian space at a much more rapid pace.
